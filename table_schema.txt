@@ -1,0 +1,13 @@
+Table Name
+
+data 
+---------------------------
+Table Columns
+
+id - int primary key auto_increment
+name - varchar
+age - int
+address - varchar
+contact - varchar
+mail - varchar
+---------------------------
